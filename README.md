@@ -57,26 +57,25 @@ The OPNsense LAN firewall rules were reviewed as part of the lab to understand h
 
 Screenshots
 
-OPNsense Interface Assignments
+### OPNsense Interface Assignments
 
-[Screenshot 1 — WAN and LAN interface assignments]
+![OPNsense Interface Assignments](01-opnsense-interface-assignments.png)
 
-OPNsense LAN Configuration
+### OPNsense LAN Configuration
 
-[Screenshot 2 — LAN interface and IPv4 configuration]
+![OPNsense LAN Configuration](02-opnsense-lan-configuration.png)
 
-Kali Network Configuration
+### Kali Network Configuration
 
-[Screenshot 3 — Kali eth1 and network configuration]
+![Kali Network Configuration](03-kali-network-configuration.png)
 
-Kali Accessing OPNsense
+### Kali Accessing OPNsense
 
-[Screenshot 4 — OPNsense web interface accessed from Kali]
+![Kali accessing OPNsense](04-kali-opnsense-connectivity.png)
 
-OPNsense LAN Firewall Rules
+### OPNsense LAN Firewall Rules
 
-[Screenshot 5 — LAN firewall rules]
-
+![OPNsense LAN Firewall Rules](05-opnsense-lan-firewall-rules.png)
 Skills Practiced
 
 * Virtual machine networking
