@@ -59,23 +59,23 @@ Screenshots
 
 ### OPNsense Interface Assignments
 
-![OPNsense Interface Assignments](opnsense-interface-assignments.png)
+![OPNsense Interface Assignments](pics/opnsense-interface-assignments.png)
 
 ### OPNsense LAN Configuration
 
-![OPNsense LAN Configuration](opnsense-lan-configuration.png)
+![OPNsense LAN Configuration](pics/opnsense-lan-configuration.png)
 
 ### Kali Network Configuration
 
-![Kali Network Configuration](kali-network-configuration.png)
+![Kali Network Configuration](pics/kali-network-configuration.png)
 
 ### Kali Accessing OPNsense
 
-![Kali accessing OPNsense](kali-opnsense-connectivity.png)
+![Kali accessing OPNsense](pics/kali-opnsense-connectivity.png)
 
 ### OPNsense LAN Firewall Rules
 
-![OPNsense LAN Firewall Rules](opnsense-lan-firewall-rules.png)
+![OPNsense LAN Firewall Rules](pics/opnsense-lan-firewall-rules.png)
 
 Skills Practiced
 
